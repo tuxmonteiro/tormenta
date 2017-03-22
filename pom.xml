@@ -88,7 +88,7 @@
                 <configuration>
                     <jvmArguments>
                         -server
-                        -Xmx256m -Xss256k
+                        -Xmx1024m -Xss256k
                     </jvmArguments>
                 </configuration>
             </plugin>
